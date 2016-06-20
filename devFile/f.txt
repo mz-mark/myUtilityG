@@ -5,3 +5,4 @@ master file
 feature1 updated
 >>>>>>> featurel
 feature1 and master updated
+dev branch updated
